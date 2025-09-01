@@ -1,3 +1,4 @@
 # Admin-Dashboard
+-A simple homepage admin dashboard built with HTML and CSS, featuring sidebar, header, projects, announcements, and trending sections, but not responsive yet.
 
-This project took me around 5 hours to finish and it is my second project on css. To be honest, I felt a little bit overwhelmed when I first looked at the project. I didn't know what to do so I looked up on my note, draw a draft on paper. This method is super useful for me. While doing the project, I encountered some problems but I found the answer for it and I really appreciate these problems because it strengthen my skills and provide me a better understanding on Grid and Flex. I has also practiced adding <img> to html and using css to style it. I'm really proud of myself after finishing this project!!!
+-Live Demo: https://hungit-dev.github.io/admin-dashboard/
